@@ -1,0 +1,204 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"home",
+				"home_page"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"old",
+				"old_word"
+			],
+			[
+				"repl",
+				"replace_word"
+			],
+			[
+				"ti",
+				"title_with_date"
+			],
+			[
+				"cu",
+				"current_date"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/suzanel-gabry/Desktop/test/Test1/config/routes.rb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/views/users/new.html.erb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/assets/javascripts/application.js",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/views/blogs/about.html.erb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/views/blogs/home.html.erb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/assets/stylesheets/custom.scss.css",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/helpers/blogs_helper.rb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/helpers/application_helper.rb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/views/layouts/application.html.erb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/spec/rails_helper.rb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/spec/requests/home_pages_spec.rb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/spec/support/matchets/have_meta.rb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/views/home_page/about.html.erb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/views/home_page/location.html.erb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/views/home_page/contact.html.erb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/views/home_page/home.html.erb",
+		"/Users/suzanel-gabry/Desktop/test/Test1/Gemfile",
+		"/Users/suzanel-gabry/Desktop/test/Test1/.rspec",
+		"/Users/suzanel-gabry/Desktop/test/Test1/app/controllers/home_page_controller.rb",
+		"/Users/suzanel-gabry/Desktop/Rails Internship/questions/exercise_3_3.rb",
+		"/Users/suzanel-gabry/Desktop/Rails Internship/questions/exercise_3_2.rb",
+		"/Users/suzanel-gabry/Desktop/Rails Internship/questions/exercise_3_1.rb",
+		"/Users/suzanel-gabry/Desktop/Rails Internship/questions/exercise_3.rb",
+		"/Users/suzanel-gabry/Desktop/Rails Internship/questions/examples/procsVSlambdas.rb",
+		"/Users/suzanel-gabry/Desktop/Rails Internship/questions/examples/lambdas.rb",
+		"/Users/suzanel-gabry/Desktop/Rails Internship/questions/examples/example_3_3.rb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "blogs_users_spec.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 331.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
