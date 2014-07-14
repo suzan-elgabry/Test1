@@ -1,4 +1,16 @@
 Rails.application.routes.draw do
+
+
+   
+   get '/about' => 'blogs#about'
+   get '/signup' => 'users#new'
+   root 'blogs#home'
+
+  
+  
+
+ 
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
