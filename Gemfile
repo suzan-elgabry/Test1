@@ -6,12 +6,17 @@ gem 'rails', '4.1.4'
 # Use sqlite3 as the database for Active Record
 group :development, :test do
 gem 'sqlite3'
+gem 'rspec-rails', '~> 3.0.0'
+gem "factory_girl_rails", "~> 4.0"
+gem 'capybara'
+gem 'simplecov', '~>0.7.1'
+gem 'faker'
 end
 
 group :production do
 gem 'pg'
 end
-
+ gem 'bootstrap-sass'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
@@ -32,6 +37,8 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 gem 'spring',        group: :development
+
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
