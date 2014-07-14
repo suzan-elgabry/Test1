@@ -1,4 +1,11 @@
 Rails.application.routes.draw do
+  
+get 'home_page/contact'
+get 'home_page/location'
+  get 'home_page/home'
+
+  get 'home_page/about'
+
   resources :books
 
   resources :authors
