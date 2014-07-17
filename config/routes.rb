@@ -1,10 +1,12 @@
 Rails.application.routes.draw do
 
-
+resources :users
    
    get '/about' => 'blogs#about'
+   get '/contact' => 'blogs#contact'
    get '/signup' => 'users#new'
    root 'blogs#home'
+   post 'blogs/send_email'
 
   
   

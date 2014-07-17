@@ -4,7 +4,23 @@
 * Globals!
 */
 /* Move down content because we have a fixed navbar that is 50px tall */
+
+@mixin box_sizing {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing: border-box;
+}
+
+
 body {
 padding-top: 50px;
 padding-bottom: 20px;
+}
+
+.debug_dump{
+	cler: both;
+	float:left;
+	width:100;
+	margin-top: 45px;
+	@include box_sizing;
 }
