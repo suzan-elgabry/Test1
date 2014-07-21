@@ -1,12 +1,20 @@
 Rails.application.routes.draw do
 
 resources :users
+resources :sessions, :only => [:create, :destroy]
    
    get '/about' => 'blogs#about'
    get '/contact' => 'blogs#contact'
    get '/signup' => 'users#new'
+   post '/signup' => 'users#create'
+
+     get '/signin' => 'sessions#new'
+  delete  '/signout' => 'sessions#destroy', via: :delete
+
+
    root 'blogs#home'
    post 'blogs/send_email'
+
 
   
   
