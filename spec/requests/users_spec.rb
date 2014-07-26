@@ -2,6 +2,7 @@ require 'rails_helper'
 
 
 describe "Users" do
+
 	subject {page}
 
 
@@ -88,5 +89,17 @@ describe "profile page" do
 
 end 
 
+
+describe "edit page" do
+	let(:user) {FactoryGirl.create(:user)}
+
+	describe "page" do 
+		before{ visit edit_user_path(user)}
+		it {should have_selector('h1', text:"Update your profile")}
+		it {should has_title?(user.name)}
+	    	
+	end
+
+end
 
 end
